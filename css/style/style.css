@@ -1,0 +1,8 @@
+.avatar-wrapper {
+    text-align: center; /* Căn giữa nội dung theo chiều ngang */
+}
+
+.avatar-wrapper img {
+    width: 150px; /* Kích thước của avatar */
+    height: 150px; /* Kích thước của avatar */
+}
